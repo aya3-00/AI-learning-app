@@ -1,0 +1,22 @@
+{
+  "goal": "条件分岐を使ったプログラム",
+  "target_minutes": 10,
+  "records": [
+    {
+      "date": "2026-07-10T16:45",
+      "topic": "条件分岐",
+      "minutes": 30,
+      "solved": 1,
+      "understanding": 3,
+      "memo": ""
+    },
+    {
+      "date": "2026-07-10T17:13",
+      "topic": "条件分岐",
+      "minutes": 5,
+      "solved": 1,
+      "understanding": 5,
+      "memo": ""
+    }
+  ]
+}
